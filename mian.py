@@ -1,5 +1,6 @@
 import nidaqmx
 from itertools import count
+import math
 import pprint as pp
 from matplotlib.figure import Figure
 from matplotlib.animation import FuncAnimation
